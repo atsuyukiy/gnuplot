@@ -3,6 +3,7 @@ Alpine Linux based gnuplot v5.4.3
 
 ## Supported Tags
 - `5.4.3`, `latest`
+- `cjk`: gnuplot v5.4.2 with cjk fonts.
 
 ## Quick Start
 ```
