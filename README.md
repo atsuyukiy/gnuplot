@@ -4,6 +4,7 @@ Alpine Linux based gnuplot v5.4.3
 ## Supported Tags
 - `5.4.3`, `latest`
 - `cjk`: gnuplot v5.4.2 with cjk fonts.
+- `slim`: gnuplot v5.4.2 built with official package (a few x 10MB).
 
 ## Quick Start
 ```
