@@ -1,6 +1,10 @@
 # gnuplot
 Alpine Linux based gnuplot v5.4.3
 
+Repository:
+- Docker Hub @ [atsuyukiy/gnuplot](https://hub.docker.com/r/atsuyukiy/gnuplot)
+- GitHub @ [atsuyukiy/gnuplot](https://github.com/atsuyukiy/gnuplot)
+
 ## Supported Tags
 - `5.4.3`, `latest`
 - `cjk`: gnuplot v5.4.2 with cjk fonts.
